@@ -1,0 +1,157 @@
+{
+  "Computer": {
+    "Silver": 0.3,
+    "Gold": 1,
+    "Palladium": 0.055,
+    "Copper": 300,
+    "Iron": 900,
+    "Aluminum": 1200
+  },
+  "Laptop": {
+    "Silver": 0.3,
+    "Gold": 2,
+    "Palladium": 0.055,
+    "Copper": 300,
+    "Iron": 200,
+    "Aluminum": 300
+  },
+  "Monitor": {
+    "Silver": 0.055,
+    "Gold": 0.55,
+    "Copper": 2750,
+    "Aluminum": 900
+  },
+  "AC": {
+    "Iron": 1000,
+    "Zinc": 100,
+    "Copper": 2750,
+    "Aluminum": 1200,
+    "Gold" :0.7
+  },
+  "Printer": {
+    "Silver": 0.0055,
+    "Gold": 0.055,
+    "Copper": 550,
+    "Aluminum": 1250
+  },
+  "Scanner": {
+    "Silver": 0.0055,
+    "Gold": 0.0055,
+    "Copper": 275,
+    "Aluminum": 600
+  },
+  "Keyboard": {
+    "Silver": 0.0055,
+    "Gold": 0.0055,
+    "Copper": 110,
+    "Aluminum": 300
+  },
+  "Mouse": {
+    "Silver": 0.0055,
+    "Gold": 0.0055,
+    "Copper": 110,
+    "Aluminum": 300
+  },
+  "Fax_machine": {
+    "Silver": 0.0055,
+    "Gold": 0.0055,
+    "Copper": 550,
+    "Aluminum": 1250
+  },
+  "Copier": {
+    "Silver": 0.055,
+    "Gold": 0.55,
+    "Copper": 5500,
+    "Aluminum": 12500
+  },
+  "Television": {
+    "Silver": 0.055,
+    "Gold": 0.55,
+    "Copper": 5500,
+    "Aluminum": 12500
+  },
+  "Phone": {
+    "Silver": 0.0055,
+    "Gold": 0.05,
+    "Palladium": 0.0055,
+    "Copper": 260,
+    "Aluminum": 275
+  },
+  "Tablet": {
+    "Silver": 0.0055,
+    "Gold": 0.0255,
+    "Palladium": 0.0055,
+    "Copper": 110,
+    "Aluminum": 300
+  },
+  "Digital_camera": {
+    "Silver": 0.0055,
+    "Gold": 0.0055,
+    "Copper": 110,
+    "Aluminum": 300
+  },
+  "MP3_player": {
+    "Silver": 0.0055,
+    "Gold": 0.0055,
+    "Copper": 55,
+    "Aluminum": 125
+  },
+  "DVD_player": {
+    "Silver": 0.0055,
+    "Gold": 0.0055,
+    "Copper": 275,
+    "Aluminum": 600
+  },
+  "Blu-ray_player": {
+    "Silver": 0.0055,
+    "Gold": 0.0055,
+    "Copper": 275,
+    "Aluminum": 600
+  },
+  "Game_console": {
+    "Silver": 0.055,
+    "Gold": 0.275,
+    "Copper": 550,
+    "Aluminum": 1250
+  },
+  "Washing_Machine": {
+    "Copper": 2750,
+    "Aluminum": 5500
+  },
+  "Microwave": {
+    "Copper": 2750,
+    "Aluminum": 5500
+  },
+  "Refrigerator": {
+    "Copper": 2750,
+    "Aluminum": 5500
+  },
+  "Small_electronic_devices": {
+    "Silver": 0.0055,
+    "Gold": 0.0055,
+    "Copper": 27.5,
+    "Aluminum": 60
+  },
+  "Charger": {
+    "Iron": 5,
+    "Copper": 12,
+    "Aluminum": 3.5
+  },
+  "Cable": {
+    "Iron": 2,
+    "Copper": 30,
+    "Aluminum": 2
+  },
+  "Networking_equipment": {
+    "Silver": 0.0055,
+    "Gold": 0.0055,
+    "Copper": 275,
+    "Aluminum": 550
+  },
+  "Hard_Disk": {
+    "Silver": 0.0055,
+    "Gold": 0.0055,
+    "Copper": 110,
+    "Aluminum": 300
+  }
+}
